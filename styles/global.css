@@ -27,7 +27,7 @@
 body {
     overflow: hidden; /* sem rolagem e sem transbordar*/
     font: var(--text);
-    color: var(var(--text-secondary));
+    color: var(--text-secondary);
 }
 
 h1, h2 {
